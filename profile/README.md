@@ -10,8 +10,8 @@ CoDTUBE is a community-driven platform built for Call of Duty players to discove
 
 ## Projects
 
-- Android App
-- OBS Studio Integration
+- Android App (Coming soon)
+- OBS Studio Integration (https://github.com/CoDTUBE/OBS-Uploader)
 
 ## Website
 
